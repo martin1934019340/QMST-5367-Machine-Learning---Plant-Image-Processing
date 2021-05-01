@@ -40,7 +40,7 @@
 
 
 ##### Model 2: RMSProp optimizer method
-RMSProp stands for Random Means Squared Propagation. This optimization method takes a moving average of the squared gradient for each weight and adjusts the weights by dividing the gradient by the root of said average. 
+###### RMSProp stands for Random Means Squared Propagation. This optimization method takes a moving average of the squared gradient for each weight and adjusts the weights by dividing the gradient by the root of said average. 
 
 ###### Layers: 16
 ###### Activation Function: ReLU
