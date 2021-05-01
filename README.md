@@ -1,7 +1,8 @@
 # QMST 5367 Machine Learning - Plant Image Processing
 
 ## TEAM 5 GROUP MEMBERS:
-### Shainan Agrawal, Chi Bao, Christian Martin, Taja Castilleja
+### Chi Bao, Christian Martin, Taja Castilleja, Shainan Agrawal
+
 
 
 ##### Introduce a hypothetical business scenario. 
