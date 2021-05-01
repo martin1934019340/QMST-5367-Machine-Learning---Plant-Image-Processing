@@ -24,7 +24,7 @@
 ###### Colored images converted into grayscale:
 ![image](https://user-images.githubusercontent.com/70920238/116769235-302e6180-aa00-11eb-95eb-3a165e9678a1.png)
 
-##### Data Sources and links to retrieve data:
+##### Data Sources and links used to retrieve data:
 ###### https://www.kaggle.com/emmarex/plantdisease and https://github.com/bazilione/poison_ivy/blob/master/data_all.zip
 
 
