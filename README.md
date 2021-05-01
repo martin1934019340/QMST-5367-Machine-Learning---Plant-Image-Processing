@@ -14,4 +14,4 @@
 ###### We will be using a dataset that includes images of plants classified into groups. In total, there are three categories where each category has between 150-300 images. We may gather more photos to train the machine learning algorithm.
 
 ##### List/describe the data sources you may obtain/use for your project. 
-###### We will use datasets of images collected by software engineers and related experts in the field of plant image recognition. The data sources are not limited to but may include: https://www.kaggle.com/emmarex/plantdisease, https://github.com/bazilione/poison_ivy/blob/master/data_all.zip, and https://www.kaggle.com/alxmamaev/flowers-recognition.
+###### We will use datasets of images collected by software engineers and related experts in the field of plant image recognition. The data sources are not limited to but may include: https://www.kaggle.com/emmarex/plantdisease and https://github.com/bazilione/poison_ivy/blob/master/data_all.zip.
