@@ -18,9 +18,10 @@
 ######   ·  	Grey images: We also converted images to grayscale and ran our model with this revised dataset. This offered a different way to extract features from the images.
 
 
-Example of the plant leaf images:
-
+###### Example of the plant leaf images:
 ![image](https://user-images.githubusercontent.com/70920238/116769219-20af1880-aa00-11eb-8ca0-61a88cb0b217.png)
+
+###### Colored images converted into grayscale:
 ![image](https://user-images.githubusercontent.com/70920238/116769235-302e6180-aa00-11eb-95eb-3a165e9678a1.png)
 
 ##### Data Sources and links to retrieve data:
