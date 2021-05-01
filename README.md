@@ -15,3 +15,17 @@
 
 ##### List/describe the data sources you may obtain/use for your project. 
 ###### We will use datasets of images collected by software engineers and related experts in the field of plant image recognition. The data sources are not limited to but may include: https://www.kaggle.com/emmarex/plantdisease and https://github.com/bazilione/poison_ivy/blob/master/data_all.zip.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/70920238/116766896-8ac0c100-a9f2-11eb-8144-7f00e860efb1.png)
+![image](https://user-images.githubusercontent.com/70920238/116766912-a1671800-a9f2-11eb-80d3-cae7e59acb2c.png)
+
+
+
+
+
+
+
