@@ -41,11 +41,11 @@ Example of the plant leaf images:
 ##### Model 2: RMSProp optimizer method
 RMSProp stands for Random Means Squared Propagation. This optimization method takes a moving average of the squared gradient for each weight and adjusts the weights by dividing the gradient by the root of said average. 
 
-Layers: 16
-Activation Function: ReLU
-Learning rate: 0.001
-Optimizer: RMSProp
-Accuracy: 66%
+####### Layers: 16
+####### Activation Function: ReLU
+###### Learning rate: 0.001
+###### Optimizer: RMSProp
+###### Accuracy: 66%
 ![image](https://user-images.githubusercontent.com/70920238/116769392-64565200-aa01-11eb-8a6b-8822b119eb87.png)
 
 
